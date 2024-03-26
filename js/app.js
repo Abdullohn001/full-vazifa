@@ -2,12 +2,17 @@ const projects = [
   {
     title: "1- vazifa",
     githubLink: "https://github.com/Abdullohn001/vazifa",
-    vercelLink: "akademnashir-weld.vercel.app",
+    vercelLink: "",
   },
   {
     title: "2- vazifa",
     githubLink: "https://github.com/Abdullohn001/3--dars",
-    vercelLink: "ansormed-xi.vercel.app",
+    vercelLink: "",
+  },
+  {
+    title: "bg-video",
+    githubLink: "https://bg-video-two.vercel.app/",
+    vercelLink: "https://bg-video-two.vercel.app/",
   },
 ];
 
