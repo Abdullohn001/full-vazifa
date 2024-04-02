@@ -15,15 +15,16 @@ const projects = [
     vercelLink: "https://bg-video-two.vercel.app/",
   },
   {
-<<<<<<< HEAD
-    title: "Animation",
-    githubLink: "https://github.com/Abdullohn001/Animation",
-    vercelLink: "https://animation-xg1t.vercel.app/",
-=======
+    
     title: "Costaway",
     githubLink: "https://github.com/Abdullohn001/Castaway",
     vercelLink: "https://castaway-4cy9.vercel.app/",
->>>>>>> 680c70f5140e084815c781ccc0ce6134f9039f50
+  },
+  {
+    title: "Animation",
+    githubLink: "https://github.com/Abdullohn001/Animation",
+    vercelLink: "https://animation-xg1t.vercel.app/",
+
   },
 ];
 
