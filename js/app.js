@@ -26,6 +26,12 @@ const projects = [
     vercelLink: "https://animation-xg1t.vercel.app/",
 
   },
+  {
+    title: "Createx",
+    githubLink: "https://github.com/Abdullohn001/Createx",
+    vercelLink: "https://createx-eosin.vercel.app/",
+
+  },
 ];
 
 const template = document.querySelector("template");
