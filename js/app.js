@@ -15,6 +15,11 @@ const projects = [
     vercelLink: "https://bg-video-two.vercel.app/",
   },
   {
+    title: "Pixer",
+    githubLink: "https://github.com/Abdullohn001/pixer",
+    vercelLink: "https://pixer-nu-olive.vercel.app/",
+  },
+  {
     
     title: "Costaway",
     githubLink: "https://github.com/Abdullohn001/Castaway",
