@@ -37,6 +37,12 @@ const projects = [
     vercelLink: "https://createx-eosin.vercel.app/",
 
   },
+  {
+    title: "MyTeam",
+    githubLink: "https://github.com/Abdullohn001/my-team",
+    vercelLink: "https://my-team-flame.vercel.app/",
+
+  },
 ];
 
 const template = document.querySelector("template");
