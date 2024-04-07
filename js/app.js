@@ -41,7 +41,7 @@ const projects = [
     title: "Crowdfunding",
     githubLink: "https://github.com/Abdullohn001/crowdfunding",
     vercelLink: "https://crowdfunding-eta-nine.vercel.app/",
-  }
+  },
   {
     title: "MyTeam",
     githubLink: "https://github.com/Abdullohn001/my-team",
