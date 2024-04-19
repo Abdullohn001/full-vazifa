@@ -48,6 +48,11 @@ const projects = [
     vercelLink: "https://my-team-flame.vercel.app/",
 
   },
+  {
+    title: "JacaScript_Amaliyot",
+    githubLink: "https://github.com/Abdullohn001/javascript_amaliyot",
+    vercelLink: "https://javascript-amaliyot.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
