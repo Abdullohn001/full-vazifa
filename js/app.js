@@ -53,6 +53,11 @@ const projects = [
     githubLink: "https://github.com/Abdullohn001/javascript_amaliyot",
     vercelLink: "https://javascript-amaliyot.vercel.app/",
   },
+  {
+    title: "3-dars masalalari",
+    githubLink: "https://github.com/Abdullohn001/masalalar",
+    vercelLink: "https://masalalar-ruby.vercel.app/"
+  },
 ];
 
 const template = document.querySelector("template");
