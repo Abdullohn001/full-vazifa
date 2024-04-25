@@ -58,6 +58,11 @@ const projects = [
     githubLink: "https://github.com/Abdullohn001/masalalar",
     vercelLink: "https://masalalar-ruby.vercel.app/"
   },
+  {
+    title: "4-dars masalalari",
+    githubLink: "https://github.com/Abdullohn001/4--dars",
+    vercelLink: "https://4-dars-rouge.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
