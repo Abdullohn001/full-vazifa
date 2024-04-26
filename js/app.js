@@ -20,7 +20,6 @@ const projects = [
     vercelLink: "https://pixer-nu-olive.vercel.app/",
   },
   {
-    
     title: "Costaway",
     githubLink: "https://github.com/Abdullohn001/Castaway",
     vercelLink: "https://castaway-4cy9.vercel.app/",
@@ -29,13 +28,11 @@ const projects = [
     title: "Animation",
     githubLink: "https://github.com/Abdullohn001/Animation",
     vercelLink: "https://animation-xg1t.vercel.app/",
-
   },
   {
     title: "Createx",
     githubLink: "https://github.com/Abdullohn001/Createx",
     vercelLink: "https://createx-eosin.vercel.app/",
-
   },
   {
     title: "Crowdfunding",
@@ -46,7 +43,6 @@ const projects = [
     title: "MyTeam",
     githubLink: "https://github.com/Abdullohn001/my-team",
     vercelLink: "https://my-team-flame.vercel.app/",
-
   },
   {
     title: "JacaScript_Amaliyot",
@@ -56,12 +52,17 @@ const projects = [
   {
     title: "3-dars masalalari",
     githubLink: "https://github.com/Abdullohn001/masalalar",
-    vercelLink: "https://masalalar-ruby.vercel.app/"
+    vercelLink: "https://masalalar-ruby.vercel.app/",
   },
   {
     title: "4-dars masalalari",
     githubLink: "https://github.com/Abdullohn001/4--dars",
     vercelLink: "https://4-dars-rouge.vercel.app/",
+  },
+  {
+    title: "5 - dars masalari",
+    githubLink: "https://github.com/Abdullohn001/5---dars",
+    vercelLink: "https://5-dars-nine.vercel.app/",
   },
 ];
 
