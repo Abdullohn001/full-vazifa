@@ -64,6 +64,11 @@ const projects = [
     githubLink: "https://github.com/Abdullohn001/5---dars",
     vercelLink: "https://5-dars-nine.vercel.app/",
   },
+  {
+    title: "6-dars Figma",
+    githubLink: "https://github.com/Abdullohn001/6--dars-FIGMA",
+    vercelLink: "https://figma-wine-omega.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
