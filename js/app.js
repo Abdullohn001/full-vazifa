@@ -74,6 +74,7 @@ const projects = [
     githubLink: "https://github.com/Abdullohn001/7-dars",
     vercelLink: "https://7-dars-tau.vercel.app/",
   },
+  
 ];
 
 const template = document.querySelector("template");
