@@ -70,13 +70,18 @@ const projects = [
     vercelLink: "https://figma-wine-omega.vercel.app/",
   },
   {
-    title: "7 - dars Masalari",
+    title: "7 - dars Masalalari",
     githubLink: "https://github.com/Abdullohn001/7-dars",
     vercelLink: "https://7-dars-tau.vercel.app/",
   },
   {
-    title: "8- dars Masalari",
+    title: "8- dars Masalalari",
     githubLink: "https://github.com/Abdullohn001/8---dars",
+    vercelLink: "https://8-dars-rust.vercel.app/",
+  },
+  {
+    title: "9 - dars masalalari",
+    githubLink: "https://github.com/Abdullohn001/9-dars",
     vercelLink: "https://8-dars-rust.vercel.app/",
   },
 ];
