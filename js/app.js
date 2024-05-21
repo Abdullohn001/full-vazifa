@@ -90,6 +90,11 @@ const projects = [
     vercelLink: "https://github.com/Abdullohn001/11--dars",
   },
   {
+    title: "2-dars Amaliyot",
+    githubLink: "https://github.com/Abdullohn001/2-dars",
+    vercelLink: "https://2-dars-blush.vercel.app/",
+  },
+  {
     title: "5-oy 3-dars ",
     githubLink: "https://github.com/Abdullohn001/random-color",
     vercelLink: "https://random-color-puce.vercel.app/",
