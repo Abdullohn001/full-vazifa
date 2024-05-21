@@ -89,6 +89,11 @@ const projects = [
     githubLink: "https://github.com/Abdullohn001/11--dars",
     vercelLink: "https://github.com/Abdullohn001/11--dars",
   },
+  {
+    title: "5-oy 3-dars ",
+    githubLink: "https://github.com/Abdullohn001/random-color",
+    vercelLink: "https://random-color-puce.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
