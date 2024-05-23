@@ -95,9 +95,14 @@ const projects = [
     vercelLink: "https://2-dars-blush.vercel.app/",
   },
   {
-    title: "5-oy 3-dars ",
+    title: "3-dars ",
     githubLink: "https://github.com/Abdullohn001/random-color",
     vercelLink: "https://random-color-puce.vercel.app/",
+  },
+  {
+    title: "4-dars Drum Kit",
+    githubLink: "https://github.com/Abdullohn001/drum-kit",
+    vercelLink: "https://drum-kit-nine-iota.vercel.app/",
   },
 ];
 
