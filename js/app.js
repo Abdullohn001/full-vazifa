@@ -104,6 +104,11 @@ const projects = [
     githubLink: "https://github.com/Abdullohn001/drum-kit",
     vercelLink: "https://drum-kit-nine-iota.vercel.app/",
   },
+  {
+    title: "5- dars Music Player",
+    githubLink: "https://github.com/Abdullohn001/musicPlayer",
+    vercelLink: "https://music-player-gamma-woad.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
