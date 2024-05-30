@@ -109,6 +109,16 @@ const projects = [
     githubLink: "https://github.com/Abdullohn001/musicPlayer",
     vercelLink: "https://music-player-gamma-woad.vercel.app/",
   },
+  {
+    title: "6- dars Gues My Number",
+    githubLink: "https://github.com/Abdullohn001/gues",
+    vercelLink: "https://gues-abdullohs-projects-a9038f8e.vercel.app/",
+  },
+  {
+    title: "7- dars Figma",
+    githubLink: "",
+    vercelLink: "",
+  },
 ];
 
 const template = document.querySelector("template");
