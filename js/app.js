@@ -115,9 +115,9 @@ const projects = [
     vercelLink: "https://gues-abdullohs-projects-a9038f8e.vercel.app/",
   },
   {
-    title: "7- dars Figma",
-    githubLink: "",
-    vercelLink: "",
+    title: "7- dars To Do",
+    githubLink: "https://github.com/Abdullohn001/To-Do",
+    vercelLink: "https://to-do-psi-eight-64.vercel.app/",
   },
 ];
 
