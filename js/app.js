@@ -119,6 +119,16 @@ const projects = [
     githubLink: "https://github.com/Abdullohn001/To-Do",
     vercelLink: "https://to-do-psi-eight-64.vercel.app/",
   },
+  {
+    title: "9- dars ",
+    githubLink: "",
+    vercelLink: "",
+  },
+  {
+    title: "10- dars Weather",
+    githubLink: "https://github.com/Abdullohn001/weather",
+    vercelLink: "https://weather-iota-liard.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
