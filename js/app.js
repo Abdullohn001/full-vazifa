@@ -120,9 +120,9 @@ const projects = [
     vercelLink: "https://to-do-psi-eight-64.vercel.app/",
   },
   {
-    title: "9- dars ",
-    githubLink: "",
-    vercelLink: "",
+    title: "9- dars Random User",
+    githubLink: "https://github.com/Abdullohn001/random-user",
+    vercelLink: "https://random-user-lilac.vercel.app/",
   },
   {
     title: "10- dars Weather",
