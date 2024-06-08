@@ -129,6 +129,11 @@ const projects = [
     githubLink: "https://github.com/Abdullohn001/weather",
     vercelLink: "https://weather-iota-liard.vercel.app/",
   },
+  {
+    title: "11-dars Online Shop",
+    githubLink: "https://github.com/Abdullohn001/shop",
+    vercelLink: "https://shop-five-topaz.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
