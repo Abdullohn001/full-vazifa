@@ -134,6 +134,11 @@ const projects = [
     githubLink: "https://github.com/Abdullohn001/shop",
     vercelLink: "https://shop-five-topaz.vercel.app/",
   },
+  {
+    title: "Imtihon 5-oy",
+    githubLink:"",
+    vercelLink:"",
+  },
 ];
 
 const template = document.querySelector("template");
