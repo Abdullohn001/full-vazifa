@@ -136,8 +136,8 @@ const projects = [
   },
   {
     title: "Imtihon 5-oy",
-    githubLink:"",
-    vercelLink:"",
+    githubLink: "https://github.com/Abdullohn001/imtihon-5-oy",
+    vercelLink: "https://imtihon-5-oy-silk.vercel.app/",
   },
 ];
 
