@@ -149,6 +149,11 @@ const projects = [
     githubLink: "https://github.com/Abdullohn001/4dars",
     vercelLink: "https://4dars-seven.vercel.app/",
   },
+  {
+    title: "6/5 - dars",
+    githubLink: "",
+    vercelLink: "",
+  },
 ];
 
 const template = document.querySelector("template");
