@@ -150,12 +150,12 @@ const projects = [
     vercelLink: "https://4dars-seven.vercel.app/",
   },
   {
-    title: "6/5 - dars",
-    githubLink: "",
-    vercelLink: "",
+    title: "6/5 - dars (Products)",
+    githubLink: "https://github.com/Abdullohn001/products",
+    vercelLink: "https://products-five-lake.vercel.app/",
   },
   {
-    title: "6/7 - dars",
+    title: "6/7 - dars (Register)",
     githubLink: "https://github.com/Abdullohn001/register",
     vercelLink: "https://register-henna.vercel.app/",
   },
