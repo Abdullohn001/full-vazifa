@@ -159,6 +159,16 @@ const projects = [
     githubLink: "https://github.com/Abdullohn001/register",
     vercelLink: "https://register-henna.vercel.app/",
   },
+  {
+    title: "6/8 - dars (Register full)",
+    githubLink: "https://github.com/Abdullohn001/register-full",
+    vercelLink: "https://register-full.vercel.app/",
+  },
+  {
+    title: "6/10 - dars",
+    githubLink: "https://github.com/Abdullohn001/register-full",
+    vercelLink: "https://register-full.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
