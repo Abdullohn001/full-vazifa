@@ -169,6 +169,11 @@ const projects = [
     githubLink: "https://github.com/Abdullohn001/register-full",
     vercelLink: "https://register-full.vercel.app/",
   },
+  {
+    title: "6/11 - dars Todos",
+    githubLink: "https://github.com/Abdullohn001/todos",
+    vercelLink: "https://todos-blue-psi.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
