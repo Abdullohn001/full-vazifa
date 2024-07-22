@@ -174,6 +174,11 @@ const projects = [
     githubLink: "https://github.com/Abdullohn001/todos",
     vercelLink: "https://todos-blue-psi.vercel.app/",
   },
+  {
+    title: "Imtihon (My kitchen recipt)",
+    githubLink: "https://github.com/Abdullohn001/my-kitchen-app",
+    vercelLink: "https://my-kitchen-app.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
