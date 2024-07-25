@@ -179,6 +179,11 @@ const projects = [
     githubLink: "https://github.com/Abdullohn001/my-kitchen-app",
     vercelLink: "https://my-kitchen-app.vercel.app/",
   },
+  {
+    title: "7/2 dars (Dessert App)",
+    githubLink: "https://github.com/Abdullohn001/dessert-app",
+    vercelLink: "https://github.com/Abdullohn001/dessert-app",
+  },
 ];
 
 const template = document.querySelector("template");
