@@ -184,6 +184,11 @@ const projects = [
     githubLink: "https://github.com/Abdullohn001/dessert-app",
     vercelLink: "https://github.com/Abdullohn001/dessert-app",
   },
+  {
+    title: "7/3 dars (Card)",
+    githubLink: "https://github.com/Abdullohn001/Calculate-card",
+    vercelLink: "https://calculate-card.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
