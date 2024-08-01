@@ -189,6 +189,11 @@ const projects = [
     githubLink: "https://github.com/Abdullohn001/Calculate-card",
     vercelLink: "https://calculate-card.vercel.app/",
   },
+  {
+    title: "7/4 dars (Login with redux)",
+    githubLink: "https://github.com/Abdullohn001/loginWithRedux",
+    vercelLink: "https://login-with-redux-one.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
