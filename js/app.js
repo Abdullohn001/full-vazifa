@@ -195,9 +195,14 @@ const projects = [
     vercelLink: "https://login-with-redux-one.vercel.app/",
   },
   {
-    title:"7/6 dars (Store in Redux)",
-    githubLink:"https://github.com/Abdullohn001/Store-in-Redux",
-    vercelLink:"https://store-in-redux.vercel.app/",
+    title: "7/6 dars (Store in Redux)",
+    githubLink: "https://github.com/Abdullohn001/Store-in-Redux",
+    vercelLink: "https://store-in-redux.vercel.app/",
+  },
+  {
+    title: "7/12 dars (Imtihon)",
+    githubLink: "https://github.com/Abdullohn001/7oy-imtihon",
+    vercelLink: "https://7oy-imtihon-iota.vercel.app/",
   },
 ];
 
