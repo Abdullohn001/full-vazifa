@@ -204,6 +204,11 @@ const projects = [
     githubLink: "https://github.com/Abdullohn001/7oy-imtihon",
     vercelLink: "https://7oy-imtihon-iota.vercel.app/",
   },
+  {
+    title: "8/2 dars (Mortgage Calculator)",
+    githubLink: "https://github.com/Abdullohn001/Calculate--",
+    vercelLink: "https://calculate-swart.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
